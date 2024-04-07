@@ -1,4 +1,4 @@
-O projeto LotoFacilGUI é uma aplicação Java que simula um jogo de loteria com interface gráfica. Esta aplicação permite que o usuário faça apostas de números, letras e escolha entre números pares ou ímpares. O objetivo é oferecer uma experiência divertida e interativa de loteria, onde os usuários podem testar sua sorte de forma simples e intuitiva.
+O LotoFacilGUI é uma aplicação Java que simula um jogo de loteria com interface gráfica. Esta aplicação permite que o usuário faça apostas de números, letras e escolha entre números pares ou ímpares. O objetivo é oferecer uma experiência divertida e interativa de loteria, onde os usuários podem testar sua sorte de forma simples e intuitiva.
 
 Recursos
 Apostas Numéricas: Permite ao usuário apostar em um número de 0 a 100.
