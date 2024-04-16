@@ -1,33 +1,47 @@
-O LotoFacilGUI é uma aplicação Java que simula um jogo de loteria com interface gráfica. Esta aplicação permite que o usuário faça apostas de números, letras e escolha entre números pares ou ímpares. O objetivo é oferecer uma experiência divertida e interativa de loteria, onde os usuários podem testar sua sorte de forma simples e intuitiva.
+<h1><strong>LotoFacilGUI</strong></h1>
+O LotoFacilGUI é um aplicativo de simulação de loteria desenvolvido em Java, utilizando a biblioteca Swing para a interface gráfica. Este aplicativo permite aos usuários apostar em números, letras e decidir se o próximo número será par ou ímpar, tudo isso com uma interface amigável
 
-Recursos
-Apostas Numéricas: Permite ao usuário apostar em um número de 0 a 100.
-Apostas Alfabéticas: Permite ao usuário apostar em uma letra de A a Z.
-Apostas Par ou Ímpar: Permite ao usuário apostar se o número é par ou ímpar.
-Interface Gráfica: Uma interface gráfica simples e amigável, facilitando a interação do usuário com o jogo.
-Feedback Instantâneo: Após cada aposta, o usuário recebe um feedback imediato sobre o resultado da sua aposta.
+<h2/>Características</h2>
 
-Como Executar
-Para executar a aplicação, você precisa ter o Java instalado em seu sistema. Siga estes passos para executar o jogo:
-Faça o download do código-fonte do projeto.
-Compile o código usando um IDE de sua preferência ou via linha de comando.
-Execute o arquivo LotoFacilGUI.java.
+Apostar de 0 a 100: Faça uma aposta em qualquer número dentro deste intervalo e veja se você ganha!
 
-Requisitos
+Apostar de A a Z: Escolha uma letra e tente a sorte!
+
+Apostar em Número Par: Diga se o próximo número será par e ganhe se acertar.
+
+<h2/>Pré-requisitos</h2>
+
+Para rodar o LotoFacilGUI, você precisa ter instalado:
+
 Java Development Kit (JDK) 8 ou superior.
 
-Compilando e Executando via Linha de Comando
+<h2/>Instalação e Execução</h2>
 
-Abra o terminal ou prompt de comando e navegue até o diretório onde o arquivo LotoFacilGUI.java está localizado. Execute os seguintes comandos:
-javac LotoFacilGUI.java
-java LotoFacilGUI
+Baixe o código fonte do LotoFacilGUI para seu computador.
 
-Estrutura do Projeto
+Abra um terminal e navegue até o diretório onde o arquivo LotoFacilGUI.java está salvo.
 
-O projeto contém os seguintes componentes principais:
-LotoFacilGUI.java: A classe principal que implementa a interface gráfica do usuário e a lógica do jogo.
-Componentes Swing: Utiliza JButton, JLabel, e JOptionPane para interações com o usuário.
+Compile o programa com o comando: javac LotoFacilGUI.java
 
-Contribuindo
+Execute o programa usando: java LotoFacilGUI
+<h2>Exemplo de Execução</h2>
 
-Sinta-se à vontade para contribuir com o projeto, seja adicionando novas funcionalidades, melhorando a interface gráfica ou corrigindo bugs. Sua contribuição é muito bem-vinda!
+![image](https://github.com/vhvaz/Projeto_LotoFacilGUI/assets/90483530/477fcfbc-8ce3-4d16-b8dd-2957ed79fdab)
+
+<h2/>Interface</h2>
+
+O aplicativo possui uma interface intuitiva com botões para cada tipo de aposta e informações claras sobre como jogar e verificar os resultados.
+
+<h2/>Desenvolvimento</h2>
+Java: Para a lógica do programa.
+
+Swing: Para a interface gráfica.
+
+<h2/>Este projeto foi desenvolvido utilizando:</h2>
+
+Java: Para a lógica do programa.
+
+Swing: Para a interface gráfica.
+
+<h2/>Contribuir</h2>
+Contribuições para o projeto são sempre bem-vindas. Por favor, envie suas sugestões ou melhorias através de pull requests ou abra um issue no repositório do projeto.
